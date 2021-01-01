@@ -36,7 +36,7 @@
           <muleVersion>4.3.0</muleVersion>
           <username>dmdm</username>
           <password>Mulesoft14</password>
-          <applicationName>system-world-maven-kebede</applicationName>
+          <applicationName>system-world-maven-dd</applicationName>
           <environment>Sandbox</environment>
           <workerType>MICRO</workerType>
           <objectStoreV2>true</objectStoreV2>
